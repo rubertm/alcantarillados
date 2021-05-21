@@ -1,0 +1,50 @@
+﻿escenario;condicion;ID;Colector;color;Cuenca;AREA;Cruce
+df_areasll0;lluvia;0;La Doctora;1;La Doctora;0;null
+df_areasll0;lluvia;1;La Doctora;1;La Doctora;0;null
+df_areasll0;lluvia;2;La Doctora;1;La Doctora;0;null
+df_areasll0;lluvia;3;La Doctora;1;La Doctora;0;null
+df_areasll0;lluvia;4;La Doctora;1;La Doctora;0;null
+df_areasll0;lluvia;5;La Doctora;1;La Doctora;0;null
+df_areasll0;lluvia;6;La Doctora;1;La Doctora;0;null
+df_areasll0;lluvia;7;La Doctora;1;La Doctora;0;null
+df_areasll0;lluvia;8;La Doctora;1;La Doctora;0;null
+df_areasll0;lluvia;9;La Doctora;1;La Doctora;0;null
+df_areasll0;lluvia;10;La Escuela;1;La Doctora;0;null
+df_areasll0;lluvia;11;La Escuela;1;La Doctora;0;null
+df_areasll0;lluvia;12;La Escuela;1;La Doctora;0;null
+df_areasll0;lluvia;13;La Escuela;1;La Doctora;0;null
+df_areasll0;lluvia;14;La Escuela;1;La Doctora;0;null
+df_areasll0;lluvia;15;La Honda;1;La Doctora;0;null
+df_areasll0;lluvia;16;La Honda;1;La Doctora;0;null
+df_areasll0;lluvia;17;La Honda;1;La Doctora;0;null
+df_areasll0;lluvia;18;La Honda;1;La Doctora;0;null
+df_areasll0;lluvia;19;La Honda;1;La Doctora;0;null
+df_areasll0;lluvia;20;La Honda;1;La Doctora;0;null
+df_areasll0;lluvia;21;Sabaneta Norte;1;La Mina;0;null
+df_areasll1;lluvia;0;null;1;LA DOCTORA;7.591874;null
+df_areasll1;lluvia;1;null;1;LA DOCTORA;19.525331;null
+df_areasll1;lluvia;2;null;1;LA DOCTORA;5.070203;null
+df_areasll1;lluvia;3;null;1;LA DOCTORA;8.440845;null
+df_areasll2;lluvia;0;null;1;LA DOCTORA;5.068421;cll58Sur
+df_areasll2;lluvia;1;null;1;LA DOCTORA;2.015016;cll58Sur
+df_areasll2;lluvia;2;null;1;LA DOCTORA;2.393668;cll61Sur
+df_areasll2;lluvia;3;null;1;LA DOCTORA;2.23928;cll61Sur
+df_areasll2;lluvia;4;null;1;LA DOCTORA;0.121083;cll61Sur
+df_areasll2;lluvia;5;null;1;LA MINA;13.20956;cll50Sur-cll50bSur
+df_areasR0;Residual;0;La Doctora;1;La Doctora;0;null
+df_areasR0;Residual;1;La Doctora;1;La Doctora;0;null
+df_areasR0;Residual;2;La Escuela;1;La Doctora;0;null
+df_areasR0;Residual;3;La Honda;1;La Doctora;0;null
+df_areasR0;Residual;4;La Honda;1;La Doctora;0;null
+df_areasR0;Residual;5;Sabaneta Norte;1;La Mina;0;null
+df_areasR1;Residual;0;La Doctora;1;La Doctora;0;null
+df_areasR1;Residual;1;La Doctora;1;La Doctora;0;null
+df_areasR1;Residual;2;La Escuela;1;La Doctora;0;null
+df_areasR1;Residual;3;La Honda;1;La Doctora;0;null
+df_areasR1;Residual;4;La Honda;1;La Doctora;0;null
+df_areasR1;Residual;5;Sabaneta Norte;1;La Mina;0;null
+df_areasR2;Residual;0;null;1;LA DOCTORA;10.81552;null
+df_areasR2;Residual;1;null;1;LA DOCTORA;19.63021;null
+df_areasR2;Residual;2;null;1;LA DOCTORA;21.23237;null
+df_areasR2;Residual;3;null;1;LA MINA;8.13761;null
+df_areasR2;Residual;4;null;1;LA MINA;8.7558;null
